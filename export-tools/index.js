@@ -1,3 +1,4 @@
+(function (s, n, t, i, u, d, f) {
 /* Kettu plugin (Vendetta format): Export Tools — v1.0.0
  *
  * Export what the client has loaded, copied to the clipboard:
@@ -17,7 +18,6 @@
  * clipboard" here. MessageStore.getMessages is read defensively — if the
  * store shape differs on this Discord build, the command says so instead
  * of exporting garbage. */
-(function (s, n, t, i, u, d, f) {
     "use strict";
 
     var unregisterCommands = [];

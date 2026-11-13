@@ -1,3 +1,4 @@
+(function (s, n, t, i, u, d, f) {
 /* Kettu plugin (Vendetta format): Member Details — v1.0.0
  *
  * Slash command: /userinfo <user>
@@ -16,7 +17,6 @@
  * Honest limits: there is no DOM on mobile, so details are not injected
  * into the profile popout the way the web plugin did it — the command
  * reply is the mobile-native equivalent. */
-(function (s, n, t, i, u, d, f) {
     "use strict";
 
     var unregisterCommand = null;

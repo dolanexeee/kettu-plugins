@@ -1,3 +1,4 @@
+(function (s, n, t, i, u, d, f) {
 /* Kettu plugin (Vendetta format): Catbox Upload — v1.0.0
  *
  * Upload a file to Catbox anonymously and get a permanent public link.
@@ -22,7 +23,6 @@
  * Honest limits: this plugin cannot pick files from the device — the
  * Vendetta/Kettu API exposes no file picker. It uploads files that are
  * already reachable: message attachments, or a public URL you paste. */
-(function (s, n, t, i, u, d, f) {
     "use strict";
 
     var CATBOX_API = "https://catbox.moe/user/api.php";

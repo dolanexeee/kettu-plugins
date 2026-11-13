@@ -1,3 +1,4 @@
+(function (s, n, t, i, u, d, f) {
 /* Kettu plugin (Vendetta format): Translate Messages — v1.0.0
  *
  * Translate a message in place — Arabic to English or English to Arabic.
@@ -19,7 +20,6 @@
  * { onLoad, onUnload }. The message-sheet row is added by patching
  * ActionSheet openLazy for "MessageLongPressActionSheet" and pushing a
  * FormRow into the ButtonRow group — the exact pattern delete-embeds uses. */
-(function (s, n, t, i, u, d, f) {
     "use strict";
 
     var patches = [];

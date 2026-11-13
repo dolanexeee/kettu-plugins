@@ -1,11 +1,11 @@
 {
   "name": "Export Tools",
-  "description": "/exportmessages (JSON) and /exportmembers (CSV) \u2014 copy loaded channel messages / member list to the clipboard.",
+  "description": "/exportmessages (JSON) and /exportmembers (CSV) — copy loaded channel messages / member list to the clipboard.",
   "authors": [
     {
       "name": "dolanexeee"
     }
   ],
   "main": "index.js",
-  "hash": "24b4f40d987f7ff61d3b7070298ba6d703c638308df224ed6c24e2d406b55356"
+  "hash": "968e43c1817f86341a7f89831edc3dccb5241d1ece37682cdadedb5f9b9f8d05"
 }

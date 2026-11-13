@@ -1,11 +1,11 @@
 {
   "name": "Member Details",
-  "description": "/userinfo <user> \u2014 account creation date (snowflake), account age, server join date, roles.",
+  "description": "/userinfo <user> — account creation date (snowflake), account age, server join date, roles.",
   "authors": [
     {
       "name": "dolanexeee"
     }
   ],
   "main": "index.js",
-  "hash": "32fa99395724843054c6a811fcf1dbea4042aca0c9790fa870fe5c813aab31ad"
+  "hash": "40c189d7d71a7ccd162df1ec66e5bacd46f0bd0ff3adb7727c80b1de3e859c59"
 }

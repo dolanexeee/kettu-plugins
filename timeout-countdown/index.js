@@ -1,3 +1,4 @@
+(function (s, n, t, i, u, d, f) {
 /* Kettu plugin (Vendetta format): Timeout Countdown — v1.0.0
  *
  * Shows when a timed-out member's timeout ends.
@@ -17,7 +18,6 @@
  * The command + Discord's live timestamp rendering is the mobile-native
  * equivalent. Store lookup is done lazily inside the command (never at
  * load time), and every failure path reports instead of guessing. */
-(function (s, n, t, i, u, d, f) {
     "use strict";
 
     var unregisterCommand = null;

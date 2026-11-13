@@ -1,11 +1,11 @@
 {
   "name": "Catbox Upload",
-  "description": "Upload a message attachment or a file from a public URL to Catbox anonymously \u2014 permanent link, copied to clipboard.",
+  "description": "Upload a message attachment or a file from a public URL to Catbox anonymously — permanent link, copied to clipboard.",
   "authors": [
     {
       "name": "dolanexeee"
     }
   ],
   "main": "index.js",
-  "hash": "5e4a5ce8d4dd7d10e3a5fa16b5eb16cf17d28f844b3358cb70827b61946607a6"
+  "hash": "4d69b4f7c054362891304514ec2e8c55bceed60f88fd59da48a69f7c3f478919"
 }
