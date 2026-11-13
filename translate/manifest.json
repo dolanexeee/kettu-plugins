@@ -1,0 +1,11 @@
+{
+  "name": "Translate Messages",
+  "description": "Long-press a message (or /translate) to translate it \u2014 Arabic to English, English to Arabic, auto direction.",
+  "authors": [
+    {
+      "name": "dolanexeee"
+    }
+  ],
+  "main": "index.js",
+  "hash": "bfe808a8c1ebbb4f3c10ab4eba58e2ff37d02f18481e0502f4afc1484e424bd4"
+}

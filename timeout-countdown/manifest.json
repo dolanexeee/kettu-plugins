@@ -1,0 +1,11 @@
+{
+  "name": "Timeout Countdown",
+  "description": "/timeoutinfo <user> \u2014 shows when a member's timeout ends, with Discord's native live countdown timestamp.",
+  "authors": [
+    {
+      "name": "dolanexeee"
+    }
+  ],
+  "main": "index.js",
+  "hash": "0de85656f2ad117f63476485071b80d9e93d94658cefbb2c6fa66dd64e8ca4e5"
+}
